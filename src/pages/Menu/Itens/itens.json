@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Mediterranean pasta",
+    "description": "Spaghetti pasta with seafood and spices, a specialty of the kitchen. Warning: Contains shrimp and other seafood!",
+    "photo": "../../../../public/assets/Imagens/Plates/macarrao_mediterraneo.png",
+    "size": 400,
+    "serving": 2,
+    "price": 13.0,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Pastas"
+    }
+  },
+  {
+    "title": "House-made Pasta",
+    "description": "Spaghetti pasta with seafood and spices, a specialty of the kitchen. Warning: Contains shrimp and other seafood!",
+    "photo": "../../../../public/assets/Imagens/Plates/macarrao_da_casa.png",
+    "size": 400,
+    "serving": 2,
+    "price": 11.0,
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": "Pastas"
+    }
+  },
+  {
+    "title": "Pasta with chilli",
+    "description": "Fettuccine pasta with chilli sauce and spices.",
+    "photo": "../../../../public/assets/Imagens/Plates/macarrao_com_chilli.png",
+    "size": 350,
+    "serving": 1,
+    "price": 12.0,
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": "Pastas"
+    }
+  },
+  {
+    "title": "House salad with grilled salmon",
+    "description": "House salad (lettuce, arugula, carrot) with salmon.",
+    "photo": "../../../../public/assets/Imagens/Plates/salada_da_casa.png",
+    "size": 450,
+    "serving": 1,
+    "price": 8.0,
+    "id": 4,
+    "category": {
+      "id": 2,
+      "label": "Meat"
+    }
+  },
+  {
+    "title": "Steak with potatoes",
+    "description": "Beef steak (150g) on ​​the grill, with French fries. Served with rice and sauces.",
+    "photo": "../../../../public/assets/Imagens/Plates/bife_com_batatas.png",
+    "size": 550,
+    "serving": 2,
+    "price": 15.0,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Meat"
+    }
+  },
+  {
+    "title": "Minced picanha with vegetables and pasta",
+    "description": "400g of minced picanha, with grilled vegetables and pasta chosen by the customer.",
+    "photo": "../../../../public/assets/Imagens/Plates/picanha_picada.png",
+    "size": 850,
+    "serving": 3,
+    "price": 23.0,
+    "id": 6,
+    "category": {
+      "id": 3,
+      "label": "Combos"
+    }
+  },
+  {
+    "title": "Vegan lasagna (soy meat)",
+    "description": "100% vegan lasagna made with soy meat and special pasta.",
+    "photo": "../../../../public/assets/Imagens/Plates/lasagna_vegana.png",
+    "size": 350,
+    "serving": 1,
+    "price": 9.0,
+    "id": 7,
+    "category": {
+      "id": 4,
+      "label": "Vegan"
+    }
+  },
+  {
+    "title": "Special salad",
+    "description": "Salad with avocado, mango, lettuce, chickpeas and more.",
+    "photo": "../../../../public/assets/Imagens/Plates/salada_especial.png",
+    "size": 350,
+    "serving": 1,
+    "price": 8.0,
+    "id": 8,
+    "category": {
+      "id": 4,
+      "label": "Vegan"
+    }
+  },
+  {
+    "title": "Meatballs",
+    "description": "Portion of meatballs with sour cream, onion and seasoning. Served with rice or pasta.",
+    "photo": "../../../../public/assets/Imagens/Plates/almondegas.png",
+    "size": 740,
+    "serving": 3,
+    "price": 17.0,
+    "id": 9,
+    "category": {
+      "id": 3,
+      "label": "Combos"
+    }
+  }
+]
